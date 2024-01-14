@@ -1,2 +1,0 @@
-# SPSR.io
-OmGTU
